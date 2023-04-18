@@ -7,9 +7,11 @@
 
 #ifndef JMHomeProtocol_h
 #define JMHomeProtocol_h
+#import <JMStarter/JMModuleBaseProtocol.h>
 
-@protocol JMHomeProtocol <NSObject>
+@protocol JMHomeProtocol <JMModuleBaseProtocol>
 - (void)testFun;
 
 @end
+
 #endif /* JMHomeProtocol_h */
