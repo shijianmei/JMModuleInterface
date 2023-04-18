@@ -1,28 +1,17 @@
 # JMModuleInterface
 
-[![CI Status](https://img.shields.io/travis/jianmei/JMModuleInterface.svg?style=flat)](https://travis-ci.org/jianmei/JMModuleInterface)
-[![Version](https://img.shields.io/cocoapods/v/JMModuleInterface.svg?style=flat)](https://cocoapods.org/pods/JMModuleInterface)
-[![License](https://img.shields.io/cocoapods/l/JMModuleInterface.svg?style=flat)](https://cocoapods.org/pods/JMModuleInterface)
-[![Platform](https://img.shields.io/cocoapods/p/JMModuleInterface.svg?style=flat)](https://cocoapods.org/pods/JMModuleInterface)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+一个模块化服务层
 
 ## Requirements
-
+iOS 11.0
 ## Installation
-
-JMModuleInterface is available through [CocoaPods](https://cocoapods.org). To install
+To install
 it, simply add the following line to your Podfile:
 
 ```ruby
+source 'git@github.com:shijianmei/JMPrivateRepos.git'
 pod 'JMModuleInterface'
 ```
-
-## Author
-
-jianmei, jianmei.shi@ai-ways.com
 
 ## License
 
